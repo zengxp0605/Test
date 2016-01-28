@@ -1,3 +1,3 @@
 # test
 
-Here is just some assets from test.
+Here is just some assets for test.
